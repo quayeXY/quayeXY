@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm John from Accra Ghana.
+As tech enthusiast, I'm seeking to build programmes to improve my community.
+
 
 <!--
 **quayeXY/quayeXY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
